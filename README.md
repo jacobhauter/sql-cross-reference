@@ -1,4 +1,4 @@
-# Financial Records Cross Reference Using SQL
+# Cross Referencing Financial Records Using SQL
 
 ## PROBLEM:
 - Needed to compare an extract of customer names with multiple other extracts, including core system, wealth management database, and brokerage database
